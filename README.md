@@ -20,6 +20,7 @@
 - 스마트 컨트랙트 Maintenance 패턴 : https://medium.com/returnvalues/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8-maintenance-%ED%8C%A8%ED%84%B4-2d14f9351e6b
 - 스마트 컨트랙트 Security 패턴 : https://medium.com/returnvalues/%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8-security-%ED%8C%A8%ED%84%B4-a2912f3b0371
 - 스마트 컨트랙트 개발/테스트에 유용한 모듈 : https://medium.com/returnvalues/%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%AA%A8%EB%93%88-5df2f651e824
+- Solidity Style Guide .0.5.2 : https://medium.com/returnvalues/%EC%86%94%EB%A6%AC%EB%94%94%ED%8B%B0-v-0-5-2-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C-19e2686201f6
 
 ## Blockchain Private Network
 
