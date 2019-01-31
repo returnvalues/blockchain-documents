@@ -7,6 +7,7 @@
 - Radical Markets : https://github.com/returnvalues/blockchain-documents/files/2816174/Radicalmarkets.pdf
 - STO의 이해 : https://github.com/returnvalues/blockchain-documents/files/2816176/STO.pdf
 - 영지식증명 : https://github.com/returnvalues/blockchain-documents/files/2816177/ZKP.BASIC.pdf
+- 디지털신원증명 : https://github.com/returnvalues/blockchain-documents/files/2816251/DIDs.pdf
 
 ## Ethereum : Smart Contracts
 
